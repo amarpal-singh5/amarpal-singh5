@@ -6,6 +6,7 @@ My background includes:
 
 - Linux Engineering
 - Infrastructure Automation
+- Kubernetes / Containers
 - Python Development
 - Ansible Automation Platform
 - Terraform
